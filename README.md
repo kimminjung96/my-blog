@@ -1,14 +1,8 @@
----
-layout: home
-title: Jekyll Gitbook Theme
-permalink: /
----
+# 공주의 블로그
 
-Make Jelly site have a GitBook look!
+## 블로그 바로가기
 
-## Demo
-
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+[https://kimminjung96.github.io/my-blog/](https://kimminjung96.github.io/my-blog/)
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
@@ -50,7 +44,7 @@ This theme can be ran locally using Ruby and Gemfiles.
 
 The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
 
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
+[https://kimminjung96.github.io/my-blog//?q=generated](https://kimminjung96.github.io/my-blog//?q=generated)
 
 ## Code highlight
 
@@ -136,7 +130,7 @@ The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip
 
 Rendered page can be previewed from
 
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
+[https://kimminjung96.github.io/my-blog//jekyll/2022-06-30-tips_warnings_dangers.html](https://kimminjung96.github.io/my-blog//jekyll/2022-06-30-tips_warnings_dangers.html)
 
 ## Cover image inside pages
 
@@ -156,7 +150,7 @@ a `cover` field to the page metadata:
 
 The effect can be previewed from
 
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
+[https://kimminjung96.github.io/my-blog//jekyll/2022-05-24-page_cover.html](https://kimminjung96.github.io/my-blog//jekyll/2022-05-24-page_cover.html)
 
 ## License
 
