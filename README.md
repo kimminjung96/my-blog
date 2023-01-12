@@ -1,5 +1,5 @@
-# Project Name
-> 공주의 블로그
+# 공주의 블로그
+> 공주네 블로그입니다 :)
 > [_here_](https://kimminjung96.github.io/my-blog/)
 
 
