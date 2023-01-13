@@ -62,6 +62,10 @@ plugins:
   - jekyll-readme-index
   - jemoji
 
+
+layout: default
+comments: true
+# other options
  
 tracker:
 google_analytics: "G-R07L8G1BPZ" 
